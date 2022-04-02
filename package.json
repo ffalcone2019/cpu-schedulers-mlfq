@@ -1,0 +1,19 @@
+{
+  "name": "cpu-schedulers-mlfq",
+  "version": "1.0.0",
+  "description": "NodeJS version of the CPU scheduler.  Test using:",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffalcone2019/cpu-schedulers-mlfq.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ffalcone2019/cpu-schedulers-mlfq/issues"
+  },
+  "homepage": "https://github.com/ffalcone2019/cpu-schedulers-mlfq#readme"
+}
